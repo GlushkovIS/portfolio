@@ -322,6 +322,9 @@ body {
     .hero {
         padding-bottom: 75px;
     }
+    .hero-text {
+        text-align: center;
+    }
     .hero-subtitle {
         font-size: 16px;
         line-height: 27px;
@@ -411,4 +414,5 @@ body {
         display: block;
         margin-bottom: 13px;
     }
+
 }
